@@ -19,7 +19,7 @@ Hey there 👋,
 
  Hi, I’m @SESHASAIP
 - 👀 I’m interested in Java,Python,cloud & DataScience
-- 🌱 I’m currently learning GitHub
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on coders
 - 📫 How to reach me throw <https://www.instagram.com/seshasai__pamulapati/>
   ---
@@ -32,9 +32,8 @@ All the powers in the universe are already ours. It is we who have put our hands
  ---
 ## My Digital Garden 🌱
 
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
+I Learn about **java**,**python**,**javascript**,**Node js** ,**React js ** ,**swift**, **Ios** ,**mongo db**  and many things that I am learning. 
 
-[Latest Post 👉](https://waylonwalker.com/latest)
 
 <details>
  <summary><strong>other favorite posts</strong></summary>
@@ -43,6 +42,6 @@ I write about things I am familiar with, things that trip up folks that I mentor
  
 </details>
 
-💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
+
 
 
