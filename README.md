@@ -34,13 +34,13 @@ All the powers in the universe are already ours. It is we who have put our hands
 
 I Learn about **java**,**Spring boot**,**python**,**javascript**,**Node js**,**React js**,**swift**, **Ios** ,**mongo db**  and many things that I am learning. 
 
-
+<!-- 
 <details>
  <summary><strong>other favorite posts</strong></summary>
  <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://images.waylonwalker.com/eight-years-cat-og.png?raw=true"></a>
  <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://images.waylonwalker.com/what-are-github-actions-og.png?raw=true"></a>
  
-</details>
+</details> -->
 
 
 
