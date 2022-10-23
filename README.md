@@ -21,7 +21,7 @@ Hey there 👋,
 - 👀 I’m interested in Java,Python,cloud & DataScience
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on coders
-- 📫 How to reach me throw <https://www.instagram.com/seshasai__pamulapati/>
+- 📫 How to reach me throw <https://www.linkedin.com/in/hema-sesha-sai-pamulapati-9962a623b/>
   ---
  
 
